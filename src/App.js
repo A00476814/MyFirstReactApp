@@ -36,7 +36,7 @@ function App() {
 function AboutMe() {
   return (
     <div className="about-me">
-      <h1>My name is Rishabh Khevaria</h1>
+      <h1>My name is Rishabh Khevaria    (THIS IS MAIN BRANCH)</h1>
       <p>I come from Delhi, India and have completed my Bachelor of Technology in June 2020. My major was Electronics and communication, but I always had a keen interest in computer science related courses. In my third year of under-grad, I decided that I want to build my career in Software engineering rather than electronics, so I started programming by myself along with my course work. I was able to secure a job as a software developer in Amdocs Development centre India in my final year. I worked there as a Java Developer. My team primarily worked on building Microservices to shift T-Mobile USA from legacy systems to easily scalable and better performing Microservice architecture. Apart from that my tech stack included Kafka for async communication between microservices and Couchbase as our main database to store info. After three years I decided to continue my studies and get a master’s degree.</p>
       <p>I really liked MCDA at Saint Mary's University as it focuses a lot on experiential learning along with regular course work. This program will help me in accelerating my career as a Software Developer or even exploring other fields like Data Science.</p>
 
